@@ -1,0 +1,21 @@
+{
+    "owner": "<<YOUR PFCAMPUS USERNAME>>",
+    "project": "starter-static-template",
+    "licence": {
+        "name": "GNU GENERAL PUBLIC LICENSE",
+        "version": 3
+    },
+    "action": {
+        "test": {
+            "skip": true
+        },
+        "deploy": {
+            "skip": false,
+            "notify_on_fail": true
+        },
+        "submission": {
+            "skip": true
+        }
+    },
+    "permission_request": [ "STATIC_DEPLOY" ]
+}
