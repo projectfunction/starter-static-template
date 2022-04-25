@@ -1,4 +1,6 @@
-/* Import the content from reset.css into this file */
-@import url("reset.css")
+/* Import the content from reset.css file */
+@import url("reset.css");
+/* Import the nav styles */
+@import url("nav.css");
   
-/* Add your styles below */
+/* Add your main styles below */
