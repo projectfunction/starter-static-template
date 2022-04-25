@@ -2,5 +2,12 @@
 @import url("reset.css");
 /* Import the nav styles */
 @import url("nav.css");
+/* Import the open-sans font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;465;500;600;700&display=swap');
   
-/* Add your main styles below */
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Add your main styles here */
