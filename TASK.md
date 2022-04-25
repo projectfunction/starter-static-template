@@ -1,6 +1,6 @@
 # Brief
 
-You have been approached by Nottingham City Council to create a new Tourism Information website. This website should contain information about the city, places to visit, and recommendations for restaurants. This website should work on mobile, tablet, and desktop. 
+You have been approached by Nottingham City Council to create a new Tourism Information website for Nottingham Tourism Center. This website should contain information about the city, places to visit, and recommendations for restaurants. The primary color for Nottingham Tourism Center is `rgb(209,216,8)` This website should work on mobile, tablet, and desktop. 
 
 [Browser support](https://browser-update.org/browsers.html) should be as follows:
 
@@ -16,22 +16,23 @@ Support for other browsers not mandatory at this point in time.
 
 ### Requirements:
 
-1. The website should contain at least 3 pages; A 'Homepage', a 'Contact Us' page, and an attraction information page.
-2. Homepage should contain 
+1. Website should contain a favicon (using the `assets/icon_bowarrow.png` image);
+2. The website should contain at least 3 pages; A 'Homepage', a 'Contact Us' page, and an attraction information page.
+3. Homepage should contain 
     - A hero element, showcasing Nottingham Castle. Interacting with this should navigate me to the attraction information page for the castle
     - A grid displaying images, names, and descriptions of attractions around Nottingham. 
-3. Contact Us page should contain
+4. Contact Us page should contain
     - An address for the Nottingham City Council Hall,
     - An [embedded](https://www.embedgooglemap.net/) map
     - Some information about the City of Nottingham.
-4. Attraction Information page should contain
+5. Attraction Information page should contain
     - Information about Nottingham Castle
     - An embedded youtube video of Nottingham Castle
     - An HTML form for booking a visit **Optional*
 6. Every page should have:
     - Nav bar with logo and links
     - Footer
-
+7. Primary color should be used at least once
 
 ### Tips
 
@@ -43,7 +44,7 @@ Support for other browsers not mandatory at this point in time.
 
 # Component reference
 
-In case you have never come across the following components, here is what they usually look like. You may use these as references/inspiration
+In case you have never come across the following components, here is what they usually look like. You may use these as references/inspiration. [To view this page visually go to the repo](https://github.com/projectfunction/starter-static-template/blob/main/TASK.md)
 
 | Hero |
 |:----:|
