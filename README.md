@@ -2,7 +2,7 @@
 A starter template for a simple static website
 
 ## Task
-For more details on the task, refer to the [TASK.md](/task.md) file.
+For more details on the task, refer to the [TASK.md](/TASK.md) file.
 
 ## What is this template?
 This template should act as a starting point for create a very simple static website. The entry point for this project is the `index.html` file. This template
